@@ -62,6 +62,21 @@ Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue.##
 
 
+
+##popular stock symbols you can use to see exact outputs from the Stock Portfolio Tracker:
+
+Apple Inc. (AAPL)
+Microsoft Corporation (MSFT)
+Alphabet Inc. (GOOGL)
+Amazon.com Inc. (AMZN)
+Tesla Inc. (TSLA)
+NVIDIA Corporation (NVDA)
+Meta Platforms Inc. (META)
+Netflix Inc. (NFLX)
+Adobe Inc. (ADBE)
+Visa Inc. (V)##
+
+
 #NOTE: IF WEB browser OPENED AND PAGE IS NOT LOADING TEY AGAIN IT WILL WORK 
 
 #DO'T FORGET TO FOLLOW
