@@ -62,3 +62,6 @@ Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue.##
 
 
+#NOTE: IF WEB browser OPENED AND PAGE IS NOT LOADING TEY AGAIN IT WILL WORK 
+
+#DO'T FORGET TO FOLLOW
