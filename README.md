@@ -29,7 +29,7 @@ This is a simple Stock Portfolio Tracker built using Python. The application pro
 
 
 
-#How to Use
+##How to Use
 
 #Clone the Repository:
 
@@ -38,7 +38,7 @@ This is a simple Stock Portfolio Tracker built using Python. The application pro
 
 #Run the Application:
 
-#python stock_portfolio_tracker.py
+python stock_portfolio_tracker.py##
 
 
 ##Using the Application:
